@@ -45,8 +45,10 @@ If you don't know how to use cmake, checkout
 
 Binaries/执行档
 
--   Windows VS2015 x64 release build: [sort.exe](bin/win_vs2015_x64_release/uniq.exe) (20 KB)
--   Windows G++ x64 static build: [sort.exe](bin/win_g++_x64_static/uniq.exe) (2.61 MB)
+-   Windows VS2015 x64 release build: [uniq.exe](bin/win_vs2015_x64_release/uniq.exe) (20 KB)
+-   Windows g++ x64 static build: [uniq.exe](bin/win_g++_x64_static/uniq.exe) (2.61 MB)
+-   Linux g++ x64 release build: [uniq](bin/linux_g++_x64/uniq) (15 KB)
+-   Linux g++ x64 static build: [uniq](bin/linux_g++_x64_static/uniq) (1.7 MB)
 
 ## Credits | 感谢
 
